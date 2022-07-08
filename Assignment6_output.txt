@@ -1,0 +1,43 @@
+Enter a number: 
+28
+ 28 is a Perfect Number
+enter a word: 
+SHORYA
+No
+       1 
+      1 1 
+     1 2 1 
+    1 3 3 1 
+   1 4 6 4 1 
+  1 5 10 10 5 1 
+False
+enter the string: 
+red-green-black-blue
+black-blue-green-red
+
+Student ID: 21107078
+Student Name: Shorya Aggarwal
+
+Student ID: 21107078
+Student Name: Shorya Aggarwal
+
+Student Name: Shorya Aggarwal
+Student Class: B.Tech Mechanical
+True
+False
+True
+False
+
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+-10 2 8
+-7 -3 10
+does not exist
+enter : 
+[{()()}{()()}]
+[{()()}{()()}] - is balanced
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
